@@ -1,20 +1,19 @@
 exports.wpp = (pushname) => {
-   return `╭━━━━━「 🔷 *𝙄𝙉𝙁𝙊 𝘿𝙊 𝘽𝙊𝙏* 🔷 」
+   return `╭━━━━━「 🔷 *𝙄𝙉𝙁𝙊 DEL 𝘽𝙊𝙏* 🔷 」
 ┃✧𝙲𝚁𝙸𝙰𝙳𝙾𝚁:ᬊ͜͡𝐒𝚲𝐂𝚯𝐋𝚵⛧᭄ 
 ┃✦𝙿𝚁𝙴𝙵𝙸𝚇𝙾: ${prefix}
-┃✧𝙲𝚁𝙸𝙰𝙳𝙾𝚁:wa.me/5562993294732
+┃CRE𝙰𝙳𝙾𝚁:wa.me/51917012705
 ┃✦ɴ° ᴅᴇ ᴄᴏᴍᴀɴᴅᴏs:447
-┃✧ɪᴛsᴜᴋɪ ʙᴏᴛ
-┃✦𝙷𝙾𝚁𝙰𝚁𝙸𝙾: segunda a sexta
+┃✧Matrix ʙᴏᴛ
+┃✦𝙷𝙾𝚁𝙰𝚁𝙸𝙾:No todos los dias de las semana
 ╰━━━々
 ╭━━━━━「🔷 *REDES SOCIAIS*🔷」
 ┃✧ᴄᴀɴᴀʟ ᴅᴏ ᴄʀɪᴀᴅᴏʀ✧
-┃✦https://youtube.com/channel/UC7frIuDpAIo9smTMU3pMZaw
+┃✦https://www.youtube.com/channel/UC_Z_d0qVKXA-6J1mLGwVSHg
 ┃✧ᴄʜᴀᴛ✧
-┃✦https://chat.whatsapp.com/DFYmbl6hp82HxrfR4fefuZ
+┃✦
 ╰━━━々
-╭━━━━━「🔷 *NOVOS*🔷」
-┃✧${prefix}dono
+╭━━━━━「🔷 *NOVOS*🔷
 ┃✦${prefix}gay1
 ┃✧${prefix}hentai2
 ┃✦${prefix}listabanidos
@@ -458,12 +457,8 @@ exports.wpp = (pushname) => {
 ┃✧${prefix}shota
 ┃✧${prefix}nekofig
 ┃✧${prefix}hentai
-┃✧*atençao atençao❗..meu pau em tua mao✋*
 ╰━━━々
 ╭━━━━━「🔷 *SUPORTE*🔷」
-┃✧${prefix}criador
-┃✧${prefix}info
-┃✧${prefix}dono
 ┃✧${prefix}bug
 ┃✧${prefix}reportarbug
 ╰━━━々
